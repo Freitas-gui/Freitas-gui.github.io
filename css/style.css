@@ -2998,9 +2998,9 @@ h6 {
   /* Footer Area css
   ============================================================================================ */
   .footer_area {
-    padding-top: 80px !important;
-    padding-bottom: 80px !important;
-    background-image: none !important;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-image: none ;
     background-color: #fcf8ff; }
 
   /* Blog page Area css

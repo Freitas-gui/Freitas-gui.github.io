@@ -392,20 +392,20 @@ header .main-menu .menu-nav > li a:hover{
 }
 
 @media (max-width: 450px) {
-    #youtube{
-    padding-top: 150px;
+    #youtube {
+        padding-top: 150px;
     }
 
     .main_title {
         margin-bottom: 20px;
     }
 
-    .post:hover{
+    .post:hover {
         box-shadow: none;
         background: none;
     }
 
-    .capa{
+    .capa {
         width: 160px;
         height: 130px
     }
@@ -413,7 +413,12 @@ header .main-menu .menu-nav > li a:hover{
     .testi_item .testi_text {
         margin-top: 20px;
     }
+}
+/*end youtube*/
 
-
-
+/*Start footer*/
+@media (max-width: 450px) {
+    .footer_area{
+        padding-top: 150px;
+    }
 }
