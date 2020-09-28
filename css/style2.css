@@ -1,7 +1,7 @@
 /*Start header*/
 .main-menu{
     position: fixed;
-        width: 100%;
+    width: 100%;
     background: white;
     z-index:10;
     top: 0;
@@ -125,6 +125,7 @@ header .main-menu .menu-nav > li a:hover{
         display: block;
         height: 90px;
         margin: 0 auto;
+        text-align: center;
     }
      header .main-menu .menu-nav > ul{
          font-size: 15px;
