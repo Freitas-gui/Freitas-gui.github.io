@@ -314,6 +314,12 @@ header .main-menu .menu-nav > li a:hover{
     margin: 0;
 }
 
+@media (max-width: 620px){
+    .portfolio_area{
+        padding-top: 120px;
+    }
+}
+
 @media (max-width: 450px) {
     .portfolio_area{
     padding-top: 150px;
@@ -382,14 +388,24 @@ header .main-menu .menu-nav > li a:hover{
     }
 
     .capa{
-        width: 180px;
-        height: 160px
+        width: 230px;
+        height: 200px
     }
 
     .testi_item .testi_text h4{
         font-size: 15px;
     }
+    .testi_item .testi_text {
+        margin-top: 10px;
+    }
 }
+
+@media (max-width: 620px){
+    #youtube{
+        padding-top: 120px;
+    }
+}
+
 
 @media (max-width: 450px) {
     #youtube {
